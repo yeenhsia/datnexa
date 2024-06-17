@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyAsk Widget - Hey Geraldine</title>
+<!-- AskAI Chat Widget Script -->
+<script defer type="text/javascript" 
+src="https://myaskai.com/api/1.1/wf/embed-v2?i=xcsVdVn8HtoR42lVcrmepSzF0UzXnT" id="xcsVdVn8HtoR42lVcrmepSzF0UzXnT" data-in-page="true"></script>
+</head>
+<body>
+<!-- AskAI Widget In page -->
+<div id="askai-embed"></div>
+</body>
+</html>
